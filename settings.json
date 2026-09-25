@@ -4,13 +4,13 @@
     "auth": "offline"
   },
   "server": {
-    "ip": "СЮДА_ПИШИ_СВОЙ_IP.aternos.me",
-    "port": 25565
+    "ip": "MrLololoshka.aternos.me",
+    "port": 12231
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "ПРИДУМАЙ_ПАРОЛЬ_ДЛЯ_БОТА"
+      "password": "bot2323fg"
     },
     "anti-afk": {
       "enabled": true,
